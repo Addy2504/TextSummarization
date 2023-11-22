@@ -1,4 +1,4 @@
-# TextSummarization
+# Text Summarization
 Text Summarization - Flask App
 
 Built a text summarization web app using Hugging Face's API. Employed Flask for the backend and a simple HTML/CSS frontend. Integrated a pre-trained model "facebook/bart-large-cnn" to generate concise summaries. Users input text and receive instant summaries, enhancing document comprehension
